@@ -1,0 +1,2 @@
+split,threshold,n_observations,n_predicted_positive_rows,n_actual_positive_observations,n_true_positive_rows_TP,precision,recall,f1,roc_auc,pr_auc
+test,0.12,127853,83,93,4,0.04819277108433735,0.043010752688172046,0.045454545454545456,0.9522341116744434,0.021509614700316176

@@ -1,0 +1,5 @@
+split,level,TP,FP,TN,FN
+validation,observation,11,91,154233,96
+validation,distinct_store,12,53,25718,47
+test,observation,4,79,127681,89
+test,distinct_store,2,47,25673,45

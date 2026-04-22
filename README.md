@@ -1,0 +1,1 @@
+# Store-Closure-Detection-Model
